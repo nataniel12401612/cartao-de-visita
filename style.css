@@ -1,9 +1,9 @@
 body {
     background-color: rgb(231, 220, 220);
-    box-shadow:10px 10px 10px black;
 }
 
 .card {
+    box-shadow:10px 10px 10px black;
     background: url(./6071843.jpg)no-repeat;
     background-size: cover;
     box-sizing: border-box;
